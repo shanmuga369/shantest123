@@ -15,4 +15,10 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <properties>
+  <sonar.projectKey>shan123</sonar.projectKey>
+  <sonar.organization>shantech</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>969536fa7f33dce53f107dc4803b3401a6105c92</sonar.login>
+</properties>
 </project>
